@@ -38,13 +38,6 @@ The contact form features intelligent message classification:
 - "Want to collaborate on project?" → **Collaboration Request**
 - "URGENT: Need help with bug" → **[URGENT] Technical Question**
 
-## 🔧 Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
-
 ## 🌐 Live Demo
 
 Visit: [https://mohith-personal-website.vercel.app](https://mohith-personal-website.vercel.app)
