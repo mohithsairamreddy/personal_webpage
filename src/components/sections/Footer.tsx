@@ -38,7 +38,7 @@ const Footer = () => {
             <p className="text-lg sm:text-xl font-medium">📫 {siteConfig.email}</p>
             <p className="text-lg sm:text-xl font-medium">📞 +91 {siteConfig.phone}</p>
             <p className="text-blue-400 font-medium text-sm sm:text-base px-4">
-              Open to roles: Data Engineer, ETL Developer, Data Scientist, Tech Lead
+              Open to roles: Data Engineer, ETL Developer, Data Scientist, Big Data Engineer 
             </p>
             <div className="pt-8 border-t border-slate-700">
               <p className="text-slate-400 text-sm px-4">
